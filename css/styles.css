@@ -1,0 +1,27 @@
+html {
+    background-color: grey;
+  }
+  body {
+    color: darkred;
+  }
+  h1 {
+    background-color: black;
+  }
+  p {
+    font-size: 16px;
+  }
+  img {
+    border-radius: 50%;
+  }
+  .yellow-background {
+    background-color: yellow;
+    border-style: solid;
+  }
+  .red {
+    color: yellow;
+    
+  }
+  
+  .allign {
+    text-align: center;
+  }
